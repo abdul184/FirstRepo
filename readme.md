@@ -1,7 +1,8 @@
  # Cpp Programming Series
-In this series I will put different cpp projects. I will be 
-posting here, most of them from internet after making some appropriate 
-changes.
+In this series I will be putting different cpp projects. Most of 
+the projects are focussed to learn different aspects of 
+c++ modules efficiently with the help of various popular projects 
+across the internet.
 
 ## 1. Banking System
 Banking system project consists of a class object and several 
